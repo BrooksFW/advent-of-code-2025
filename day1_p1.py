@@ -167,7 +167,7 @@ if __name__ == "__main__":
     dial.reset()
 
     # Read in Cipher (day_1_input.txt) as a list of commands
-    with open("..\\input\\day_1_input.txt", "r") as file:
+    with open("P:\\gitrepos\\advent2025\\input\\day_1_input.txt", "r") as file:
         commands = file.read().splitlines()
 
     # Iterate over all commands
